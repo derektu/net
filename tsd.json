@@ -1,0 +1,48 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "request/request.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "node/node.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "express/express.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "socket.io/socket.io.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "async/async.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "chai/chai.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "log4js/log4js.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    },
+    "moment/moment.d.ts": {
+      "commit": "a04abbbb2f06cb423e1ff966f0fcdc8709a04e81"
+    }
+  }
+}
